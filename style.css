@@ -156,6 +156,10 @@ main {
 Sidebar
 ===============
 */
+.header {
+  text-align: center;
+  margin-top: 5rem;
+}
 .sidebar-toggle {
   position: fixed;
   top: 2rem;
